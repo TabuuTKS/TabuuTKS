@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TabuuTKS
 - 👀 I’m interested in Making Games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Godot Game Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
